@@ -1,0 +1,19 @@
+{
+  "name": "hng",
+  "version": "1.0.0",
+  "description": "api for ip address",
+  "main": "task_1.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasilAk-cyber/temp_city_api.git"
+  },
+  "author": "Akanifiok Basil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasilAk-cyber/temp_city_api/issues"
+  },
+  "homepage": "https://github.com/BasilAk-cyber/temp_city_api#readme"
+}
